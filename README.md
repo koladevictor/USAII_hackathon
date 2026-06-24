@@ -231,9 +231,8 @@ Hackathon Team Project
 
 Contributors:
 
-- Mokeddem Halima Saadia
 - Kolad Victor
-
+- Mokeddem Halima Saadia
 ---
 
 ## License
